@@ -11,7 +11,7 @@ export const Footer = () => {
                     </Link>
                     . All Rights Reserved By{" "}
                     <a
-                        href="https://www.facebook.com/dipeshpaudelupadhyay"
+                        href="https://www.facebook.com/dipeshpaudelofficial"
                         className="hover:underline"
                         target="_blank"
                         rel="noreferrer"
